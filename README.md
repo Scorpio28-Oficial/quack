@@ -21,4 +21,4 @@ $ ./quack.sh
 
 $ python quack --tool SMS --target +5415567021787 --threads 560 --timeout 60
 
-#### No den mal uso de la herramienta. Esta no es de mi auditoria solo la comparto.
+#### No den mal uso de la herramienta por favor.

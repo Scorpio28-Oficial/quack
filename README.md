@@ -27,3 +27,5 @@ $ python quack --tool SMS --target +5415567021787 --threads 560 --timeout 60
 <p align="center">
 	<img src="https://i.imgur.com/6OIjKRk.jpg" width="600px">
 </p>
+
+#### El Mal Uso Es Responsabilidad de Quien La Utilice...
